@@ -31,13 +31,14 @@ def extract_text(pdf_path):
     return page_content
 if __name__ == '__main__':
     
-        try:
+       
                 page_content = []
 
                 Text = extract_text(r'C:\Users\DataScience02\Downloads\sample_pdf_github.pdf')
-        except:
+        
             
-                bio.append(np.nan)
+                
 
 
 # In[65]:
+print(page_content)
