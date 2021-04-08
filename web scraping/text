@@ -1,1 +1,4 @@
+Overcome the problem of chromedriver.exe updation.
 
+Instead of manually downloading the chrome driver.exe file  wheenver the chrome gets updated, we can directly install the chrome driver.exe file with in the code which automatically gets updated whenever the 
+chome browser gets updated
